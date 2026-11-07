@@ -1,0 +1,11 @@
+{
+  "name": "zakat-ts-waqf-endowment-yield",
+  "version": "1.0.0",
+  "description": "Perpetual Waqf Endowment Corpus Preservation & Yield Allocator (محاكي عوائد الوقف الإسلامي ومصارف النظارة والريع)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
